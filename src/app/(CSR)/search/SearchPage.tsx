@@ -79,7 +79,7 @@ export default function SearchPage () {
                                 height = {250}
                                 alt = {image.description}
                                 key = {image.urls.raw}
-                                className = {styles.images}
+                                className = {styles.image}
                             />
                         ))
                     }
